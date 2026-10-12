@@ -32,3 +32,5 @@ if (statusMessage) {
 ## Repository
 
 Visit my [GitHub repository](https://github.com/hafsabor1/git-session1-hafsabor1).
+
+This README was updated directly on GitHub to practice remote synchronization.
