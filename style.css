@@ -19,3 +19,11 @@ section {
   padding: 20px;
   border: 1px solid #e3e3e3;
 }
+
+
+/* Assignment 1: improve the About section */
+#about {
+  margin: 1.5rem auto;
+  padding: 1rem;
+  border-left: 4px solid #2563eb;
+}
